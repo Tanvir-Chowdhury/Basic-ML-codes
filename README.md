@@ -1,2 +1,2 @@
-# Machine_Learning_Projects
-All my machine learning projects are stored here 
+# Placement Prediction Model
+Place ment prediction from CGPA and IQ of a student
