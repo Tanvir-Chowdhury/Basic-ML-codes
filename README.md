@@ -1,3 +1,2 @@
-# Placement Prediction Model
-Placement prediction from CGPA and IQ of a student
-1. Model: Linear Regression
+# Machine Learning codes I used for learning
+
